@@ -1,4 +1,3 @@
-```markdown
 # Payment-spilter-web3
 *A seamless way to split payments using blockchain technology*
 
