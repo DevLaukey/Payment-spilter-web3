@@ -46,7 +46,7 @@ To use this project, ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Payment-spilter-web3.git
+   git clone https://github.com/DevLaukey/Payment-spilter-web3.git
    cd Payment-spilter-web3
    ```
 
